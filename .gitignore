@@ -1,3 +1,5 @@
+.DS_Store
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -11,3 +13,9 @@
 /*.userprefs
 /*.pidb
 /*.booproj
+
+# Unity pro
+Assets/AVIE
+Assets/AVIE.meta
+Assets/Toolbelt
+Assets/Toolbelt.meta
