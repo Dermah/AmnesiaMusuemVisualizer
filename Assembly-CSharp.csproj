@@ -53,6 +53,7 @@
      <Compile Include="Assets\ImageBubble.cs" />
      <Compile Include="Assets\MetadataParser.cs" />
      <Compile Include="Assets\ReadWriteCsv.cs" />
+     <Compile Include="Assets\ReverseNormals.cs" />
      <Compile Include="Assets\TriggerBehaviour.cs" />
      <Compile Include="Assets\Visualization.cs" />
      <Compile Include="Assets\VisualizerManager.cs" />
